@@ -1,7 +1,7 @@
 {
     "passages": [
       {
-        "text": "\nYour parents left town for the weekend.\nSince you're the oldest (17) they left you in charge. Your siblings are 6 and 3.\n\nWhat gender is the 6-year-old?\n(Heavily simplified genders to make the passage number smaller, doesn't reflect my own views.)\n\nBoy\nGirl",
+        "text": "\nYour parents left town for the weekend.\nSince you're the oldest (17) they left you in charge. \nYour siblings are 6 and 3.\n\nWhat gender is the 6-year-old?\n(Heavily simplified genders to make the passage number smaller, doesn't reflect my own views.)\n\nBoy\nGirl",
         "links": [
           {
             "name": "Boy",
@@ -22,7 +22,7 @@
         }
       },
       {
-        "text": "You chose Boy. What gender is the 3-year-old?\n(Heavily simplified genders to make the passage number smaller, doesn't reflect my own views.)\n\nBoy\nGirl",
+        "text": "You chose Boy. \nWhat gender is the 3-year-old?\n(Heavily simplified genders to make the passage number smaller, doesn't reflect my own views.)\n\nBoy\nGirl",
         "links": [
           {
             "name": "Boy",
@@ -43,7 +43,7 @@
         }
       },
       {
-        "text": "You chose Girl. What gender is the 3-year-old?\n(Heavily simplified genders to make the passage number smaller, doesn't reflect my own views.)\n\nGirl\nBoy",
+        "text": "You chose Girl. \nWhat gender is the 3-year-old?\n(Heavily simplified genders to make the passage number smaller, doesn't reflect my own views.)\n\nGirl\nBoy",
         "links": [
           {
             "name": "Girl",
@@ -64,7 +64,7 @@
         }
       },
       {
-        "text": "You chose Boy. So you have 2 younger brothers.\n\nTo pass the time you recommend watching TV. \nYour youngest brother is playing with a toy car. \n\nTurn on TV",
+        "text": "You chose Boy. \nSo you have 2 younger brothers.\n\nTo pass the time you recommend watching TV. \nYour youngest brother is playing with a toy car. \n\nTurn on TV",
         "links": [
           {
             "name": "Turn on TV",
@@ -80,7 +80,7 @@
         }
       },
       {
-        "text": "You chose Girl. So you have a middle brother and a younger sister. \n\nTo pass the time you recommend watching TV. \nYour younger sister is playing with a toy car. \n\nTurn on TV",
+        "text": "You chose Girl. \nSo you have a middle brother and a younger sister. \n\nTo pass the time you recommend watching TV. \nYour younger sister is playing with a toy car. \n\nTurn on TV",
         "links": [
           {
             "name": "Turn on TV",
@@ -96,7 +96,7 @@
         }
       },
       {
-        "text": "You chose Girl. So you have two younger sisters.\n\nTo pass the time you recommend watching TV. \nYour youngest sister is playing with a toy car. \n\nTurn on TV",
+        "text": "You chose Girl. \nSo you have two younger sisters.\n\nTo pass the time you recommend watching TV. \nYour youngest sister is playing with a toy car. \n\nTurn on TV",
         "links": [
           {
             "name": "Turn on TV",
@@ -112,7 +112,7 @@
         }
       },
       {
-        "text": "You chose Boy. So you have a middle sister, and a younger brother.\n\nTo pass the time you recommend watching TV. \nYour youngest brother is playing with a toy car. \n\nTurn on TV",
+        "text": "You chose Boy. \nSo you have a middle sister, and a younger brother.\n\nTo pass the time you recommend watching TV. \nYour youngest brother is playing with a toy car. \n\nTurn on TV",
         "links": [
           {
             "name": "Turn on TV",
@@ -149,7 +149,7 @@
         }
       },
       {
-        "text": "You turn on the TV and sit down. Hopefully tonight goes quickly. \nWhile watching the TV, you don't notice your brother finds Dad's lighter.\nHe catches the curtains and starts screaming.\n\nWhat do you do?\n\nPanic\nGrab Water",
+        "text": "You turn on the TV and sit down. Hopefully tonight goes quickly. \n\nWhile watching the TV, you don't notice your brother finds Dad's lighter.\nHe catches the curtains and starts screaming.\n\nWhat do you do?\n\nPanic\nGrab Water",
         "links": [
           {
             "name": "Panic",
@@ -170,7 +170,7 @@
         }
       },
       {
-        "text": "You turn on the TV and sit down. Hopefully tonight goes quickly.\nYou don't notice your sister go to you parents bathroom where she finds Mom's curling iron.\nIt was left on. She comes in running and crying. \n\nWhat do you do?\n\nPanic\nGo Investigate",
+        "text": "You turn on the TV and sit down. Hopefully tonight goes quickly.\n\nYou don't notice your sister go to you parents bathroom where she finds Mom's curling iron.\nIt was left on.\nShe comes in running and crying. \n\nWhat do you do?\n\nPanic\nGo Investigate",
         "links": [
           {
             "name": "Panic",
@@ -191,7 +191,7 @@
         }
       },
       {
-        "text": "You turn on the TV and sit down. Hopefully tonight goes quickly. \nYour sisters start fighting over the toy car. \nDo you want to tell them to be quiet or give them another car?\n\nStop Arguing\nAnother car",
+        "text": "You turn on the TV and sit down. Hopefully tonight goes quickly. \n\nYour sisters start fighting over the toy car. \nDo you want to tell them to be quiet or give them another car?\n\nStop Arguing\nAnother car",
         "links": [
           {
             "name": "Stop Arguing",
@@ -212,7 +212,7 @@
         }
       },
       {
-        "text": "Suddenly, the car goes through the air and knocks the TV of the entertainment center. The TV breaks. Mom and Dad are going to be mad.\nShould you try and hide the TV and hope they don't notice, or call them?\n\nCall Them\nHide",
+        "text": "Suddenly, the car goes through the air and knocks the TV of the entertainment center. \nThe TV breaks. Mom and Dad are going to be mad.\n\nShould you try and hide the TV and hope they don't notice, or call them?\n\nCall Them\nHide",
         "links": [
           {
             "name": "Call Them",
@@ -233,7 +233,7 @@
         }
       },
       {
-        "text": "Mom and Dad come home. Tonight was easier than expected.\n\n",
+        "text": "Mom and Dad come home. Tonight was easier than expected.\n\n You're NOT grounded.",
         "name": " TV fine",
         "pid": "13",
         "position": {
@@ -242,7 +242,7 @@
         }
       },
       {
-        "text": "Mom answers the phone and immediately starts yelling. You should have gave them the extra car. \n\nYou're grounded. ",
+        "text": "Mom answers the phone and immediately starts yelling. \nYou should have gave them the extra car. \n\nYou're grounded. ",
         "name": " Yelling",
         "pid": "14",
         "position": {
@@ -260,7 +260,7 @@
         }
       },
       {
-        "text": "Quickly fire ensues. You grab your siblings and run outside. A neighbor calls the Fire Department and then your parents come home. \nNow you're grounded for not paying attention, but they're happy you're safe. \n\nYou're grounded.",
+        "text": "Quickly fire ensues. \nYou grab your siblings and run outside. \nA neighbor calls the Fire Department and then your parents come home. \nNow you're grounded for not paying attention, but they're happy you're safe. \n\nYou're grounded.",
         "name": " Fire",
         "pid": "16",
         "position": {
@@ -269,7 +269,7 @@
         }
       },
       {
-        "text": "You pull the curtains onto the floor and start throwing water on them to put out the fire. \nMom and Dad pull in the driveway. They see the singed curtains on the floor. \nTo your surprise they say they're happy you caught it in time and you're not grounded.\n\nYou're NOT grounded.",
+        "text": "You pull the curtains onto the floor and start throwing water on them to put out the fire. \nMom and Dad pull in the driveway. \nThey see the singed curtains on the floor. \nTo your surprise they say they're happy you caught it in time and you're not grounded.\n\nYou're NOT grounded.",
         "name": " Water",
         "pid": "17",
         "position": {
@@ -299,7 +299,7 @@
         }
       },
       {
-        "text": "You unplug the curling iron. You put the towel that was smoking into the sink and run water on it just to be safe. \nMom and Dad come home. They ask what happened and you tell them your sister found the curling iron on and you took care of it. \nOther than a melted counter top, no one was hurt. \n\nYou're NOT grounded. ",
+        "text": "You unplug the curling iron. \nYou put the towel that was smoking into the sink and run water on it just to be safe. \nMom and Dad come home. \nThey ask what happened and you tell them your sister found the curling iron on and you took care of it. \nOther than a melted counter top, no one was hurt. \n\nYou're NOT grounded. ",
         "name": " Water2",
         "pid": "19",
         "position": {
